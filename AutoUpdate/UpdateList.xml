@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<AutoUpdater>
+	<Description>CMIS.GateClient autoUpdate</Description>
+	<Updater>
+		<Url>http://221.7.216.180:32600</Url>
+		<LastUpdateTime>2018-01-02</LastUpdateTime>
+	</Updater>
+	<Application applicationId = "CMIS.GateClient">
+		<EntryPoint>CMIS.GateClient.exe</EntryPoint>
+		<Location>.</Location>
+		<Version>1.0.0.0</Version>
+	</Application>
+	<Files>
+		<File Ver="1.0.0.0" Name= "Skins\mp10.ssk" />
+		<File Ver="1.0.0.0" Name= "CMIS.DbHelper.dll" />
+		<File Ver="1.0.0.0" Name= "CMIS.DbHelper.pdb" />
+		<File Ver="1.0.0.0" Name= "CMIS.Driver.dll" />
+		<File Ver="1.0.0.0" Name= "CMIS.Driver.pdb" />
+		<File Ver="1.0.0.0" Name= "CMIS.Entities.dll" />
+		<File Ver="1.0.0.0" Name= "CMIS.Entities.pdb" />
+		<File Ver="1.0.0.0" Name= "CMIS.GateClient.application" />
+		<File Ver="1.0.0.0" Name= "CMIS.GateClient.exe" />
+		<File Ver="1.0.0.0" Name= "CMIS.GateClient.exe.config" />
+		<File Ver="1.0.0.0" Name= "CMIS.GateClient.exe.manifest" />
+		<File Ver="1.0.0.0" Name= "CMIS.GateClient.pdb" />
+		<File Ver="1.0.0.0" Name= "CMIS.GateClient.vshost.application" />
+		<File Ver="1.0.0.0" Name= "CMIS.GateClient.vshost.exe" />
+		<File Ver="1.0.0.0" Name= "CMIS.GateClient.vshost.exe.config" />
+		<File Ver="1.0.0.0" Name= "CMIS.GateClient.vshost.exe.manifest" />
+		<File Ver="1.0.0.0" Name= "ESBasic.dll" />
+		<File Ver="1.0.0.0" Name= "ESFramework.dll" />
+		<File Ver="1.0.0.0" Name= "ESFramework.xml" />
+		<File Ver="1.0.0.0" Name= "IrisSkin4.dll" />
+		<File Ver="1.0.0.0" Name= "Newtonsoft.Json.dll" />
+		<File Ver="1.0.0.0" Name= "OAUS.Core.dll" />
+		<File Ver="1.0.0.0" Name= "OAUS.Core.pdb" />
+		<File Ver="1.0.0.0" Name= "Report1.rdlc" />
+	</Files>
+</AutoUpdater>
